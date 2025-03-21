@@ -62,8 +62,7 @@ I am **Victor**, a passionate and self-taught **Ethical Hacker**, **OSINT Expert
 ```
 
 📈 **GitHub Stats**  
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=samay825&show_icons=true&theme=highcontrast" alt="GitHub Stats" /> 
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay825&theme=highcontrast" alt="GitHub Streak" /> 
 </p>
 
