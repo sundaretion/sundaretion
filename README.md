@@ -1,21 +1,21 @@
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  <!-- GitHub -->
+  <!-- GitHub (Black) -->
   <a href="https://github.com/sundaretion" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40">
   </a>
 
-  <!-- Instagram -->
+  <!-- Instagram (Gradient) -->
   <a href="https://instagram.com/sundaretion" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
   </a>
 
-  <!-- Telegram -->
+  <!-- Telegram (Blue) -->
   <a href="https://t.me/sundaretion" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40">
   </a>
 
-  <!-- X (Twitter) -->
+  <!-- X (Black) -->
   <a href="https://twitter.com/sundaretion" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Twitter (X)" width="40" height="40">
   </a>
