@@ -1,5 +1,3 @@
----
-## Connect with Me  
 <h2>Connect with Me</h2>
 <p><a href="https://github.com/sundaretion" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
