@@ -1,9 +1,7 @@
 ---
 ## Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/sundaretion)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YourUsername)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://x.com/sundaretion)  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/c/YourChannel)
+
+----
 <h1 align="center">☠️ VICTOR | POWERFUL CODER ☠️</h1>
 
 <p align="center">
