@@ -1,19 +1,25 @@
-<h2>Connect with Me</h2>
-<p><a href="https://github.com/sundaretion" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
+<h2 align="center">Connect with Me</h2>
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/sundaretion" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
   </a>
+
+  <!-- Instagram -->
   <a href="https://instagram.com/sundaretion" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill: #E4405F;">
-  </a><a href="https://t.me/sundaretion" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="40" height="40" style="fill: #229ED9;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/sundaretion" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40">
   </a>
 
   <!-- X (Twitter) -->
   <a href="https://twitter.com/sundaretion" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter (X)" width="40" height="40" style="fill: #000000;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Twitter (X)" width="40" height="40">
   </a>
 </p>
-----
 <h1 align="center">☠️ VICTOR | POWERFUL CODER ☠️</h1>
 
 <p align="center">
