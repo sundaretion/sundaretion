@@ -130,11 +130,3 @@ I am **Victor**, a passionate and self-taught **Ethical Hacker**, **OSINT Expert
 [X] Threat Level : CRITICAL
 ```
 
----
-[X] Status       : HUNTING
-[X] Target       : ACQUIRING
-[X] Threat Level : CRITICAL
-```
-
----
-
