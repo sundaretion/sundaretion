@@ -3,11 +3,11 @@
 <h1 align="center">☠️ VICTOR | POWERFUL CODER ☠️</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Zork+Automation+Specialist;Team+Sincryption;Advanced+OSINT+Researcher;Zork+KING+TSN" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Zork+Automation+Specialist;Team+Sundaretion;Advanced+OSINT+Researcher;Vicot+KING+TSN" alt="Typing SVG" />
 </p>
 
 <div align="center">
-    <a href="https://www.instagram.com/sincryptzork/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" alt="Instagram Badge"/></a>
+    <a href="https://www.instagram.com/sundaretion/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" alt="Instagram Badge"/></a>
     <a href="https://youtube.com/@zork825?si=F0v46cvlC6RYJwaC"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red&color=black" alt="YouTube Badge"/></a>
     <a href="https://t.me/sundaretion"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red&color=black" alt="Telegram Badge"/></a>
 </div>
