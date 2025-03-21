@@ -23,8 +23,6 @@
 <h1 align="center">☠️ VICTOR | POWERFUL CODER ☠️</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Victor+Automation+Specialist;Team+Sundaretion; Advanced+OSINT+Researcher;Vicot+KING+TSN" alt="Typing SVG" />
-</p>
 
 <div align="center">
     <a href="https://www.instagram.com/sundaretion/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" alt="Instagram Badge"/></a>
