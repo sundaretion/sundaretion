@@ -1,6 +1,28 @@
 ---
 ## Connect with Me  
+<h2>Connect with Me</h2>
 
+<p>
+  <!-- GitHub -->
+  <a href="https://github.com/sundaretion" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" alt="GitHub">
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://instagram.com/sundaretion" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram" alt="Instagram">
+  </a>
+  
+  <!-- Telegram -->
+  <a href="https://t.me/sundaretion" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Message-blue?logo=telegram" alt="Telegram">
+  </a>
+  
+  <!-- X (Twitter) -->
+  <a href="https://twitter.com/sundaretion" target="_blank">
+    <img src="https://img.shields.io/badge/X(Twitter)-Follow-black?logo=twitter" alt="Twitter">
+  </a>
+</p>
 ----
 <h1 align="center">☠️ VICTOR | POWERFUL CODER ☠️</h1>
 
