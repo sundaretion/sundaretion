@@ -1,18 +1,12 @@
 ---
 ## Connect with Me  
 <h2>Connect with Me</h2>
-
 <p><a href="https://github.com/sundaretion" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
   </a>
-
-  <!-- Instagram -->
   <a href="https://instagram.com/sundaretion" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill: #E4405F;">
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/sundaretion" target="_blank" style="text-decoration: none;">
+  </a><a href="https://t.me/sundaretion" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="40" height="40" style="fill: #229ED9;">
   </a>
 
