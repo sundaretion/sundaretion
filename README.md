@@ -4,23 +4,23 @@
 
 <p>
   <!-- GitHub -->
-  <a href="https://github.com/sundaretion" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" alt="GitHub">
+  <a href="https://github.com/sundaretion" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
   </a>
-  
+
   <!-- Instagram -->
-  <a href="https://instagram.com/sundaretion" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram" alt="Instagram">
+  <a href="https://instagram.com/sundaretion" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" style="fill: #E4405F;">
   </a>
-  
+
   <!-- Telegram -->
-  <a href="https://t.me/sundaretion" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Message-blue?logo=telegram" alt="Telegram">
+  <a href="https://t.me/sundaretion" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="40" height="40" style="fill: #229ED9;">
   </a>
-  
+
   <!-- X (Twitter) -->
-  <a href="https://twitter.com/sundaretion" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-Follow-black?logo=twitter" alt="Twitter">
+  <a href="https://twitter.com/sundaretion" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter (X)" width="40" height="40" style="fill: #000000;">
   </a>
 </p>
 ----
